@@ -1,4 +1,4 @@
-#terraform-aws-lab-2
+# terraform-aws-lab-2
 
 Exercise 1 — Dynamic blocks from a typed variable (Advanced)
 
