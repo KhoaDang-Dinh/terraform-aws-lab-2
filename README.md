@@ -1,3 +1,5 @@
+#terraform-aws-lab-2
+
 Exercise 1 — Dynamic blocks from a typed variable (Advanced)
 
 Task: Define a variable rules of type list(object({ description=string, port=number, cidr=string })). Build one security group whose ingress rules are generated entirely by a dynamic block. Add a validation block that rejects any port outside 1–65535. Prove the validation works by passing an invalid value.
